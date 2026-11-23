@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:070B14,45:102C46,100:6546A5&text=ARPIT%20MANKAR&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=61&descSize=18" width="100%"/>
 
@@ -125,21 +125,35 @@ I enjoy building practical projects, automating deployments, troubleshooting inf
 
 ---
 
-## 🌱 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitmankar441&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=7C5CFC&currStreakLabel=00F5D4" width="80%" />
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 🌱 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmankar441&bg_color=070B14&color=00F5D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20TIMELINE" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 📈 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitmankar441&theme=github_dark" width="100%" />
 
 </div>
 
@@ -149,7 +163,7 @@ I enjoy building practical projects, automating deployments, troubleshooting inf
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=arpitmankar441&color=00F5D4&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=arpitmankar441&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
