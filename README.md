@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:070B14,45:102C46,100:6546A5&text=ARPIT%20MANKAR&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=61&descSize=18" width="100%" alt="Arpit Mankar Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:070B14,45:102C46,100:6546A5&text=ARPIT%20MANKAR&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=61&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=ARPIT+MANKAR;DevOps+Engineer;AWS+%7C+Cloud+%7C+Automation;BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY" alt="Animated Name and Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=45&lines=ARPIT+MANKAR;DevOps+Engineer;AWS+%7C+Cloud+%7C+Automation;BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+DEPLOY" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github)](https://github.com/arpitmankar441)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpitmankar/)
@@ -13,40 +13,43 @@
 
 ## 👨‍💻 About Me
 
-I'm a DevOps Engineer passionate about AWS cloud infrastructure, automation, CI/CD pipelines, containerization, and Linux systems.
+I'm a **DevOps Engineer** passionate about AWS Cloud Infrastructure, automation, CI/CD pipelines, containerization, and Linux.
 
-I enjoy building hands-on projects, troubleshooting infrastructure, and exploring technologies that make applications scalable, reliable, and efficient.
+I enjoy building practical projects, automating deployments, troubleshooting infrastructure, and learning technologies that help deliver scalable and reliable applications.
 
-- ☁️ Cloud infrastructure & AWS services
-- 🐳 Containerization with Docker
-- ☸️ Kubernetes & Amazon EKS
-- 🏗️ Infrastructure as Code with Terraform
-- 🔄 CI/CD pipeline automation
-- 🖥️ Linux administration & scripting
-- 📈 Monitoring & observability
+- ☁️ Working with AWS Cloud Services.
+- 🐳 Learning and implementing Docker and Kubernetes.
+- ⚙️ Automating infrastructure using Terraform.
+- 🔄 Building CI/CD pipelines with Jenkins and Git.
+- 🐧 Working with Linux and Shell Scripting.
+- 📈 Exploring monitoring and observability tools.
 
 ---
 
-## ⚔️ Tech Stack
+## 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=aws" />
+</div>
 
-**☁️ Cloud**
+**DevOps & CI/CD**
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab" />
+</div>
 
-**🚀 DevOps & CI/CD**
+**Infrastructure as Code & Scripting**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab&theme=dark" alt="DevOps Tools"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=terraform,ansible,bash" />
+</div>
 
-**🏗️ Infrastructure & Automation**
+**Operating Systems & Monitoring**
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash&theme=dark" alt="Infrastructure Tools"/>
-
-**🖥️ Linux & Monitoring**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,prometheus,grafana&theme=dark" alt="Linux and Monitoring Tools"/>
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,prometheus,grafana" />
 </div>
 
 ---
@@ -71,135 +74,110 @@ I enjoy building hands-on projects, troubleshooting infrastructure, and explorin
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. AWS EKS Infrastructure
 
-### ☸️ AWS EKS Infrastructure
+- Provisioning AWS infrastructure using Terraform.
+- Working with VPC, IAM, EKS, and Kubernetes workloads.
+- Exploring scalable and reliable cloud deployments.
 
-Infrastructure provisioning with Terraform and Kubernetes workloads on AWS.
+**Tech:** AWS | Terraform | EKS | Kubernetes | VPC | IAM
 
-**Stack**
+### 2. Two-Tier Application Deployment
 
-AWS · Terraform · EKS · Kubernetes · VPC · IAM
+- Flask and MySQL application deployment.
+- Docker and Docker Compose containerization.
+- Jenkins CI/CD pipeline on AWS EC2.
 
-</td>
-<td width="50%" valign="top">
+**Tech:** AWS EC2 | Docker | Jenkins | Flask | MySQL
 
-### 🐳 Two-Tier Application
+[![View Repository](https://img.shields.io/badge/VIEW-Repository-161B22?style=for-the-badge&logo=github)](https://github.com/ArpitPatil111/Two-Tier)
 
-Flask and MySQL application containerized with Docker and automated using Jenkins.
+### 3. StarsNcelebs Deployment
 
-**Stack**
+- Linux-based application deployment.
+- Nginx web server configuration.
+- PHP and MariaDB integration.
+- Git-based deployment workflow.
 
-Docker · Jenkins · Flask · MySQL · AWS EC2
+**Tech:** Linux | Nginx | PHP | MariaDB | Git
 
-[↗ Explore Repository](https://github.com/ArpitPatil111/Two-Tier)
+### 4. DevOps Daily Learning
 
-</td>
-</tr>
+- Daily DevOps learning notes and practical labs.
+- Linux, AWS, Git, and Docker practice.
+- Hands-on learning documentation.
 
-<tr>
-<td width="50%" valign="top">
+**Tech:** Linux | AWS | Git | Docker | DevOps
 
-### 🌐 StarsNcelebs Deployment
-
-Web hosting and deployment using Linux, Nginx, Git, PHP and MariaDB.
-
-**Stack**
-
-Linux · Nginx · Git · PHP · MariaDB
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 DevOps Daily Learning
-
-Daily hands-on DevOps learning notes, commands, labs, and implementation practice.
-
-**Stack**
-
-Linux · AWS · Git · Docker · DevOps
-
-[↗ Explore Repository](https://github.com/arpitmankar441/devops-daily-learning)
-
-</td>
-</tr>
-</table>
+[![View Repository](https://img.shields.io/badge/VIEW-Repository-161B22?style=for-the-badge&logo=github)](https://github.com/arpitmankar441/devops-daily-learning)
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arpitmankar441&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5D4&icon_color=7C5CFC&text_color=C9D1D9" height="170" alt="GitHub Statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitmankar441&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5D4&icon_color=7C5CFC&text_color=C9D1D9" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmankar441&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" height="170" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitmankar441&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🌱 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/arpitmankar441/arpitmankar441/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 </div>
 
 ---
 
-## 📈 GitHub Activity Timeline
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmankar441&bg_color=0D1117&color=00F5D4&line=7C5CFC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Timeline"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitmankar441&bg_color=070B14&color=00F5D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=GITHUB%20ACTIVITY%20TIMELINE" width="100%" />
 
 </div>
 
 ---
 
-## 👾 Profile Visitors
+## 👀 Visitor Count
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=arpitmankar441&style=for-the-badge&color=6C4AB6&label=PROFILE+VISITORS" alt="Profile Visitor Count"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=arpitmankar441&color=00F5D4&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎮 Next Level
+## 🚀 What's Next?
 
-- ☁️ Strengthening AWS architecture & cloud knowledge
-- 🏗️ Building production-style Terraform infrastructure
-- ☸️ Practicing Kubernetes orchestration & EKS
-- 🔄 Improving CI/CD workflows and automation
-- 📊 Exploring SRE, observability & reliability
+- AWS Cloud Architecture
+- Production-style Terraform projects
+- Kubernetes and Amazon EKS
+- CI/CD Pipeline Automation
+- SRE and Observability
 
 ---
 
-## 📫 Let's Connect
+## 📬 Contact Me
 
 <div align="center">
-
-### Open to DevOps & Cloud Opportunities
 
 [![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitmankar111@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-### ⚡ BUILD • AUTOMATE • DEPLOY • SCALE ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6546A5,50:102C46,100:070B14&section=footer" width="100%"/>
 
-<sub>Turning infrastructure into code and ideas into deployments.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6546A5,50:102C46,100:070B14&section=footer" width="100%" alt="Footer"/>
+**BUILD • AUTOMATE • DEPLOY • REPEAT**
 
 </div>
 
