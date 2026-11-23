@@ -113,6 +113,36 @@ I enjoy building practical projects, automating deployments, troubleshooting inf
 
 ---
 
+## 🏆 DevOps Milestones & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
+
+### 🚀 Learning Milestones
+
+- Practiced AWS infrastructure and cloud deployments
+- Built Docker-based application deployments
+- Practiced CI/CD automation using Jenkins
+- Worked with Terraform and Infrastructure as Code
+- Explored Kubernetes and Amazon EKS
+- Maintained daily DevOps learning notes and practical labs
+
+### 🎯 Next Milestones
+
+- Complete an end-to-end AWS EKS project
+- Build production-style CI/CD pipelines
+- Improve Kubernetes administration skills
+- Develop advanced monitoring and observability projects
+
 ## 📊 GitHub Statistics
 
 <div align="center">
