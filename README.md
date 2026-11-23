@@ -136,12 +136,13 @@ I enjoy building practical projects, automating deployments, troubleshooting inf
 - Explored Kubernetes and Amazon EKS
 - Maintained daily DevOps learning notes and practical labs
 
-### 🎯 Next Milestones
+## 🏆 Achievements
 
-- Complete an end-to-end AWS EKS project
-- Build production-style CI/CD pipelines
-- Improve Kubernetes administration skills
-- Develop advanced monitoring and observability projects
+<p align="left">
+  <img src="https://img.shields.io/badge/STARSTRUCK-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/QUICKDRAW-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PULL%20SHARK-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## 📊 GitHub Statistics
 
